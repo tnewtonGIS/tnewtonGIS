@@ -9,7 +9,7 @@ I work at the intersection of geospatial science, GIS, remote sensing, and data 
 My Quarto portfolio featuring professional experience, selected projects, and research.
 
 🛰️ **[NASA DEVELOP 2026](https://tnewtongis.github.io/nasa_develop/)**  
-Interactive Reveal.js project presentation.
+Interactive Reveal.js project presentation. Served as NASA mentor in Summer 24, Spring 25, Fall 26.
 
 💻 **[Project Repositories](https://github.com/tnewtonGIS?tab=repositories)**  
 Source code, geospatial workflows, and analytical projects.
